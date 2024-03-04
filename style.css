@@ -2,8 +2,8 @@ body{
     background-color: aqua;
 }
 div{
+    font-size: 4em;
     border: solid;
     width: 200px;
-    height: 200px;
     background-color: red;
 }
